@@ -1,0 +1,53 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+.container {
+    padding: 20px;
+    width: 300px;
+}
+
+.box {
+    height: 20px;
+    border: 2px solid whitesmoke;
+    padding: 25px;
+    font-weight: 600;
+    font-family: lato, sans-serif;
+    color: #013636;
+    cursor: pointer;
+}
+
+ul {
+    list-style-type: none;
+}
+
+
+.hide-menu {
+    display: none
+}
+
+
+.colorHome {
+    background-color: lightgray;
+}
+
+.colorBounty {
+    background-color: #4BBCF4;
+}
+
+.colorSeaGreen {
+    background-color: #61C0BF;
+}
+
+.colorOceana {
+    background-color: #BBDED6;
+}
+
+.colorRosada {
+    background-color: #FFB6B9;
+}
+
+.colorPinkSalt {
+    background-color: #FAE3D9;
+}
